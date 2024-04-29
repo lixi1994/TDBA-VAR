@@ -10,6 +10,8 @@ We used the [UCF101 dataset](https://www.crcv.ucf.edu/data/UCF101.php) for our p
 Put the data to 'UCF-101-imgs'.
 
 ## Run
+cd code
+
 Train slowfast model poisoned by DFT based attack
 
 python train_adv.py --attack FFT_slowfast --model_type slowfast
