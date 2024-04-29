@@ -7,6 +7,7 @@ pip install -r requirements.txt
 
 ## Dataset
 We used the [UCF101 dataset](https://www.crcv.ucf.edu/data/UCF101.php) for our project.
+Put the data to 'UCF-101-imgs'.
 
 ## Run
 Train slowfast model poisoned by DFT based attack
